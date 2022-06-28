@@ -5,4 +5,4 @@ Foi desenvolvido o projeto de uma calculadora com as operações básicas: Soma,
 Para acessar o código da aplicação entre em: calculadora > calculadora.cs
 
 Também foi desenvolvido um teste para verificar todas as operações básicas da calculadora.
-Para acessar o teste entre em: 
+Para acessar o teste entre em: calculadora.teste > calculadora.cs
