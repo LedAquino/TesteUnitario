@@ -2,6 +2,7 @@ namespace Calculadora.Teste
 {
     public class OperacoesTeste
     {
+        // Testando as operações básicas
         [Fact]
         public void Soma()
         {
