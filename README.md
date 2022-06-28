@@ -1,5 +1,5 @@
 # TesteUnitario
-## Meu primeiro teste unitário com C# e XUnit.
+## Meu primeiro teste unitário com C# e XUnit
 
 Foi desenvolvido o projeto de uma calculadora com as operações básicas: Soma, Subtração, Multiplicação e Divisão.
 Para acessar o código da aplicação entre em: Calculadora/Calculadora.cs
